@@ -1,0 +1,17 @@
+CACHE MANIFEST
+#ver:4/10/2020, 6:54:51 PM
+#plugin:5.0.7
+
+CACHE:
+/commons.4086a02e00dd5ca53e6d.js
+/app.4086a02e00dd5ca53e6d.css
+/app.4086a02e00dd5ca53e6d.js
+/keyboard.4086a02e00dd5ca53e6d.js
+/land.4086a02e00dd5ca53e6d.js
+/
+
+NETWORK:
+*
+
+FALLBACK:
+/ /
