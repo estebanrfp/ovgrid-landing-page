@@ -8,3 +8,6 @@
 ehthumbs.db
 Thumbs.db
 npm-debug.*
+
+# Local Netlify folder
+.netlify
